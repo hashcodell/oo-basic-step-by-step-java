@@ -96,7 +96,7 @@
 //
 //    @Test
 //    public void should_teacher_have_name_and_age_and_classes() throws Exception {
-//        LinkedList<practice10.Klass> linkedList = new LinkedList<Klass>();
+//        LinkedList<Klass> linkedList = new LinkedList<Klass>();
 //        linkedList.add(klass2);
 //        Teacher tom = new Teacher(1, "Tom", 21, linkedList);
 //        assertThat(tom.getName()).isEqualTo("Tom");
